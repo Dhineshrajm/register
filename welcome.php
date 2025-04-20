@@ -15,7 +15,7 @@ if (!isset($_SESSION['user'])) {
 <body>
 <div class="form-container">
     <h2>Welcome The Websters Candidate, <?= $_SESSION['user']; ?>!</h2>
-    <p>You have successfully logged in.</p>
+    <p>You have successfully logged in</p>
     <a href="index.php" class="btn">Logout</a>
 </div>
 </body>
