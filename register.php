@@ -32,6 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <title>Register</title>
     <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
 <div class="form-container">
